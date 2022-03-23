@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+}  
+.a{
+    width: 100%;
+}
+table{
+    border-collapse: collapse;
+    padding: 5px;
+}
+th{
+    font-size: 16pt;
+    background: blue;
+    color: #fff;
+    padding: 5px;
+    
+}
+td{
+    background-color: rgb(218, 211, 211);
+    padding: 5px;
+}
+
+input {
+    border: 1px dotted #0062ff;
+    background-color: #00ffff;
+    padding: 5px;
+}
+select{
+    border: 1px dotted #0062ff;
+    background-color: #00ffff;
+}
+textarea{
+    width: 100%;
+    border: 1px dotted #0062ff;
+    background-color: #00ffff;
+}
+button{
+    padding: 5px;
+    border: 1px solid green;
+    background-color: blue;
+    color: white;
+}

@@ -1,0 +1,33 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11pt;
+    box-sizing: border-box;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid red;
+    background: url(/form02/images/bgbottom_yellow.jpg) left bottom repeat-x;
+    /* repeat-x lặp theo trục X */
+}
+th{
+    background: red;
+    font-size: 13pt;
+    color: white;
+}
+input{
+    width: 100%;
+    border: 1px dotted #3366ff;
+    background: #99ccffc4;
+    
+}
+td{
+    border: 0px;
+    padding: 5px;
+}
+button{
+    padding: 5px;
+    border: 1px solid green;
+    background-color: red;
+    color: white;
+}
+

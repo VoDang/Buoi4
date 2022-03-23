@@ -1,0 +1,35 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11pt;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    font-size: 15pt;
+}
+
+td {
+    padding: 5px;
+}
+
+input {
+    border: 2px dotted #0062ff;
+    width: 260px;
+    background-color: #00ffff;
+    padding: 5px;
+
+}
+
+button {
+    padding: 5px;
+    border: 1px solid #00b3ff89;
+    background-color: #7fff00;
+}
+
+input:focus {
+    border: 1px dotted #0062ff;
+    background: yellow;
+}
